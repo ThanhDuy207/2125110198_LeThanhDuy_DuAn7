@@ -21,6 +21,7 @@ Ký hiệu trong trò chơi
 * X: Điểm đích cần đến.
 * #: Tường, không thể đi qua.
 * Khoảng trắng ( ): Đường đi hợp lệ.
+* M: Ma, khi bị ma bắt trò chơi kết thúc
 
 Cách hoạt động
 
